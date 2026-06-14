@@ -1,2 +1,2 @@
 # oxcmd/daily-builder
-> Builder mode đã bật
+Builder mode is on
